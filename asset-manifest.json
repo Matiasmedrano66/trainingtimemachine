@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trainingtimemachine/static/css/main.b82e0613.chunk.css",
+    "main.js": "/trainingtimemachine/static/js/main.b87e5106.chunk.js",
+    "main.js.map": "/trainingtimemachine/static/js/main.b87e5106.chunk.js.map",
+    "runtime-main.js": "/trainingtimemachine/static/js/runtime-main.7d663a69.js",
+    "runtime-main.js.map": "/trainingtimemachine/static/js/runtime-main.7d663a69.js.map",
+    "static/js/2.a6680298.chunk.js": "/trainingtimemachine/static/js/2.a6680298.chunk.js",
+    "static/js/2.a6680298.chunk.js.map": "/trainingtimemachine/static/js/2.a6680298.chunk.js.map",
+    "static/js/3.b22731b1.chunk.js": "/trainingtimemachine/static/js/3.b22731b1.chunk.js",
+    "static/js/3.b22731b1.chunk.js.map": "/trainingtimemachine/static/js/3.b22731b1.chunk.js.map",
+    "index.html": "/trainingtimemachine/index.html",
+    "static/css/main.b82e0613.chunk.css.map": "/trainingtimemachine/static/css/main.b82e0613.chunk.css.map",
+    "static/js/2.a6680298.chunk.js.LICENSE.txt": "/trainingtimemachine/static/js/2.a6680298.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d663a69.js",
+    "static/js/2.a6680298.chunk.js",
+    "static/css/main.b82e0613.chunk.css",
+    "static/js/main.b87e5106.chunk.js"
+  ]
+}
